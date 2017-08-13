@@ -2,7 +2,7 @@
 Simulates the Monty hall puzzel and proves the concept.
 https://en.wikipedia.org/wiki/Monty_Hall_problem
 
-Simply put it is a puzzel that displays our in numeracy.
+Simply put it is a puzzel that displays our innumeracy.
 It was a game show where you would pick one of three doors that you think the car is located, the game show host would then open one of the doors to reveal a goat
 then ask you it you were still comfortable with your choice. Instincively, you would think that you have a 50/50 chance, but change to the other door
 and you would actually be increasing your odds by a factor of two! 66% versus 33%
