@@ -1,4 +1,4 @@
- # Monty-Hall
+# Monty-Hall
 Simulates the Monty hall puzzel and proves the concept.
 https://en.wikipedia.org/wiki/Monty_Hall_problem
 
@@ -29,4 +29,4 @@ We did the test manually with a piece of paper and three cups. But instead of ha
 So when you stay on your original choice you baiscally have a one in 3 chance of getting the car (one car - three cups) 33%
 When you redo the game, changing your choice each time, you will notice the only time you loose is when you picked the car in your first attempt. since you should only pick the car on your first attempt 1/3 or 33% of the time  (one car - three cups), and the fact that there is only one other choice (you know which other door has a goat) you should win 2/3 or 66% of the time. 
 
-WHY THE HECK is this so not obvious? Intuitvely one - and I did argue that it would be 50-50, but it is not!
+WHY THE HECK is this so not obvious? Intuitively one - and I did argue that it would be 50-50, but it is not!
