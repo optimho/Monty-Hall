@@ -1,5 +1,5 @@
 # Monty-Hall
-simulates the Monty hall puzzel and proves the concept.
+Simulates the Monty hall puzzel and proves the concept.
 https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 Simply put it is a puzzel that displays our in numeracy.
