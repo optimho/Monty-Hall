@@ -3,6 +3,13 @@ Simulates the Monty hall puzzel and proves the concept.
 https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 Written in Python 3.6
+Save all the contents to a folder on your drive.
+Select and run monty_hall_problem.py 
+I coppied the contents into c:/test and extracted the ziped file in this folder
+after this I had to navigate to C:\test\Monty-Hall-master\Monty-Hall-master to locate monty_hall_problem.py
+then execute monty_hall_problem.py   
+
+python monty_hall_problem.py
 
 Simply put it is a puzzel that displays our innumeracy.
 It was a game show where you would pick one of three doors that you think the car is located, the game show host would then open one of the doors to reveal a goat
